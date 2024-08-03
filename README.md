@@ -22,12 +22,7 @@ This project demonstrates a simple implementation of the Transformer model using
    ```bash
    pip install -r requirements.txt
 
-transformer-pytorch/
-├── README.md
-├── data/
-│   ├── __init__.py
-│   ├── dataset.py
-├── model/
+
 │   ├── __init__.py
 │   ├── transformer.py
 ├── train.py
