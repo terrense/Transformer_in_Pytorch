@@ -21,3 +21,15 @@ This project demonstrates a simple implementation of the Transformer model using
 1. Install the required libraries:
    ```bash
    pip install -r requirements.txt
+
+transformer-pytorch/
+├── README.md
+├── data/
+│   ├── __init__.py
+│   ├── dataset.py
+├── model/
+│   ├── __init__.py
+│   ├── transformer.py
+├── train.py
+├── evaluate.py
+├── requirements.txt
